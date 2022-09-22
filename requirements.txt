@@ -1,3 +1,6 @@
 requests
 numpy 
 flask
+ender_template
+os
+keras
