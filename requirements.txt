@@ -1,4 +1,4 @@
-requests
+request
 numpy 
 flask
 keras
