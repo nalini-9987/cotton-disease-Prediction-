@@ -1,5 +1,4 @@
 requests
 numpy 
 flask
-os
 keras
