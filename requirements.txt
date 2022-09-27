@@ -1,4 +1,0 @@
-request
-numpy 
-flask
-keras
